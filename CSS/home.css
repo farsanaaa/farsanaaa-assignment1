@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-size: 150%;
+}
+img{
+    margin-left: 5%;
+}
+.nav-item{
+    border: 1.5px solid darkgreen;
+    color:black;
+    margin: 3px;
+}
+.nav-item :hover{
+    background-color:darkgreen;
+}
+p{
+    float: right;
+}
+.myMargin{
+    margin-top: 5%;
+}
+.mymargin{
+    margin-top: 25px;
+    margin-right: 25px;
+}
+.mymargin h2{
+    color: goldenrod;
+}

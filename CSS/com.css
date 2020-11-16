@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-size: cover;
+}
+img{
+    margin-left: 5%;
+}
+.nav-item{
+    margin-left: 5%;
+    border: 1.5px solid darkgreen;
+    color:black;
+    margin: 3px;
+}
+.nav-item :hover{
+    background-color:darkgreen;
+}
+h1{
+    color: darkorange;
+    margin-top: 5%;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 50px;
+}
+p{
+    margin-left: 5%;
+    color: white;
+}

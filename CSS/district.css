@@ -1,0 +1,134 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-size: cover;
+}
+img{
+    margin-left: 5%;
+}
+.nav-item{
+    border: 1.5px solid darkgreen;
+    color:black;
+    margin: 3px;
+}
+.nav-item :hover{
+    background-color:darkgreen;
+}
+.d1{
+    float: left; 
+    background-color: darkcyan;
+    }
+.d1 a{
+        border: 1px solid yellow;
+        color:blue;
+    }
+.d2{ 
+    float: left;
+    background-color: cyan;
+}
+.d2 a{
+    border: 1px solid yellow;
+    color:blue;
+}
+.d3{
+    float: left;
+    background-color: teal;
+}
+.d3 a{
+    border: 1px solid yellow;
+    color:blue;
+}
+.d4{
+    float: left;
+    background-color: turquoise;
+}
+.d4 a{
+    border: 1px solid yellow;
+    color:blue;
+}
+.d5{
+    float: left;
+    background-color: aquamarine;
+}
+.d5 a{
+    border: 1px solid yellow;
+    color:blue;
+}
+.d6{
+    float: left;
+    background-color: darkcyan;
+}
+.d6 a{
+    border: 1px solid yellow;
+    color:blue;
+}
+.d7{
+    float: left;
+    background-color: cyan
+}
+.d7 a{
+    border: 1px solid yellow;
+    color:blue;
+}
+.d8{
+    float: left;
+    background-color: teal;
+}
+.d8 a{
+    border: 1px solid yellow;
+    color:blue;
+}
+.d9{
+    float: left;
+    background-color: turquoise;
+}
+.d9 a{
+    border: 1px solid yellow;
+    color:blue;
+}
+.d10{
+    float: left;
+    background-color: aquamarine;
+}
+.d10 a{
+    border: 1px solid yellow;
+    color:blue;
+}
+.d11{
+    float: left;
+    background-color: cyan;
+}
+.d11 a{
+    border: 1px solid yellow;
+    color:blue;
+}
+.d12{
+    float: left;
+    background-color: darkcyan;
+}
+.d12 a{
+    border: 1px solid yellow;
+    color:blue;
+}
+.d13{
+    float: right;
+    background-color: cyan;
+}
+.d13 a{
+    border: 1px solid yellow;
+    color:blue;
+}
+.d14{
+    float: right;
+    background-color: darkcyan;
+}
+.d14 a{
+    border: 1px solid yellow;
+    color:blue;
+}
+.div{ 
+    margin-top: 5%;
+    color: black;
+    } 
